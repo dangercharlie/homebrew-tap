@@ -1,6 +1,6 @@
 cask "dubscribe" do
-  version "0.6.4"
-  sha256 "e3975a82fd7c20f8b0c0c008c70bebd0b2cdfdcd69482777fe84134f016595b5"
+  version "0.7.0"
+  sha256 "4aff576a4ffa2a74263f2b3f0eff9e1d727b415cc401771ed355f401bd53f3c2"
 
   url "https://github.com/dangercharlie/DubScribe/releases/download/v#{version}/DubScribe-macOS-arm64.dmg"
   name "DubScribe"
